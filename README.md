@@ -1,6 +1,4 @@
-# Hackbox
-
-Because the world needs more Jackbox-style games.
+# Salamarigghiu
 
 ## About
 
